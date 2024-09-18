@@ -1,6 +1,6 @@
 require("dotenv").config();
 
-const webhookUrl = process.env.WEBHOOK_URL;
+const webhookUrl = process.env.DISCORD_WEBHOOK_URL;
 
 if (!webhookUrl) {
   throw new Error(
