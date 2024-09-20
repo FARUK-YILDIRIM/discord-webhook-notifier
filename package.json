@@ -1,9 +1,14 @@
 {
   "name": "discord-webhook-notifier",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discord Webhook Notifier is a library that allows you to send notifications to Discord servers easily and quickly using Node.js.",
   "main": "src/index.js",
-  "keywords": [ "discord", "webhook", "notifier", "nodejs"],
+  "keywords": [
+    "discord",
+    "webhook",
+    "notifier",
+    "nodejs"
+  ],
   "author": "Ö. Faruk YILDIRIM",
   "license": "ISC",
   "dependencies": {
