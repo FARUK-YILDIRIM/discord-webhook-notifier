@@ -32,6 +32,7 @@ The `examples` folder in this repository contains sample scripts demonstrating h
 2. **Advanced Usage** (`advanced.example.js`):
    - Showcases more complex features like sending embeds and formatting messages.
    - Includes examples of customizing message appearance and structure.
+  
 
-
+   <img  alt="discord-webhook-notifier" src="https://github.com/user-attachments/assets/3214b7e7-2372-47af-ab50-17765a2c19a8">
 
